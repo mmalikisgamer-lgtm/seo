@@ -1,0 +1,6 @@
+{
+  "name": "DevSEO Tools",
+  "description": "Comprehensive suite of 16 free SEO, niche research, developer utilities, and web performance tools designed for webmasters, marketers, and developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
